@@ -2,17 +2,27 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeau&height=300&section=header&text=Sungyong%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-<h3 align="center">🛠 Teck Stack 🛠</h3>
+<h3 align="center">💪 Teck Stack 💪</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Jameson&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=FIREBASE&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/ORACLE-4479A1?style=flat&logo=ORACLE&logoColor=white"/></a>&nbsp;
 </p>
 
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+  </p>
 
 <h3 align="center"> 🎳 About Me 🎳 </h3>
 <p align="center">
