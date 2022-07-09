@@ -35,5 +35,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyong-lim)](https://github.com/sungyong-lim/sungyong-lim) 
-[![Sungyong's github stats](https://github-readme-stats.vercel.app/api?username=sungyong-lim)](https://github.com/sungyong-lim/sungyong-lim)
+[![github stats](https://github-readme-stats.vercel.app/api?username=sungyong-lim&show_icons=true)](https://github.com/sungyong-lim/sungyong-lim)
 </div>
