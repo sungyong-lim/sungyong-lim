@@ -32,8 +32,18 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;
 </p>
 
-<br>
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/sungyong-lim">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungyong-lim&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyong-lim)](https://github.com/sungyong-lim/sungyong-lim) 
-[![github stats](https://github-readme-stats.vercel.app/api?username=sungyong-lim&show_icons=true)](https://github.com/sungyong-lim/sungyong-lim)
+<h3 align="center">💡 My GitHun Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/sungyong-lim">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sungyong-lim&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+  </a>
+</p>
+
 </div>
