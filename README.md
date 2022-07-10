@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<h3 align="center">💡 GitHu Stats 💡</h3>
+<h3 align="center">💡 GitHub Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/sungyong-lim">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sungyong-lim&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
