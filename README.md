@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Java-EE4C2C?style=flat&logo=Jameson&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/></a>&nbsp;
   <br>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=FIREBASE&logoColor=white"/></a>&nbsp; 
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/></a>&nbsp; 
